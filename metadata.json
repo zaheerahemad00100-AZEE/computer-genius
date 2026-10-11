@@ -1,0 +1,6 @@
+{
+  "name": "Computer Genius Challenge",
+  "description": "A fun, colorful, and interactive computer components quiz game for Class 5 students with mascot Byte, badges, sound effects, and teacher controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
